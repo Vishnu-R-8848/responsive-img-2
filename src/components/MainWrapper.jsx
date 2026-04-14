@@ -1,9 +1,8 @@
 import React from "react";
 import Hero from "./Hero";
-
 import Presentation from "./Presentation";
-import Contact from "./contact";
-import Product from "./product";
+import Contact from "./Contact";
+import Product from "./Product";
 
 const MainWrapper = () => {
   return (

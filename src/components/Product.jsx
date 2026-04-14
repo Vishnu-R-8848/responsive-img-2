@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
 const Product = () => {
-  const productsData = [
+   const productsData = [
     {
       id: 1,
       name: "Minimalist Tunic",
